@@ -1,0 +1,6 @@
+vt-py>=0.20.0
+pandas
+openpyxl
+xlsxwriter
+pytest
+pytest-asyncio
