@@ -4,3 +4,4 @@ openpyxl
 xlsxwriter
 pytest
 pytest-asyncio
+jinja2
