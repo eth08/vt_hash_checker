@@ -1,7 +1,7 @@
 # VirusTotal Hash Checker
 
 ![Python CI/CD](https://github.com/eth08/vt_hash_checker/actions/workflows/main.yml/badge.svg)
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Version](https://img.shields.io/badge/version-0.8.4-orange)
 
 A powerful asynchronous Python script to efficiently check a list of file hashes against the VirusTotal API.
