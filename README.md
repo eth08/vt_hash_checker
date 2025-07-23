@@ -47,7 +47,7 @@ Before running the script, ensure you have the following installed:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/eth08/vt_hash_checker.git](https://github.com/eth08/vt_hash_checker.git)
+    git clone https://github.com/eth08/vt_hash_checker.git
     cd vt_hash_checker
     ```
 
