@@ -1,13 +1,14 @@
 # VirusTotal Hash Checker
 
 ![Python CI/CD](https://github.com/eth08/vt_hash_checker/actions/workflows/main.yml/badge.svg)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Version](https://img.shields.io/badge/version-0.8.4-orange)
 
 A powerful asynchronous Python script to efficiently check a list of file hashes against the VirusTotal API.
 It generates an Excel report with detailed analysis statistics, including verdict, reputation, various detection counts,
 and important timestamps (creation, first/last submission, last analysis dates) all in UTC,
 along with clickable links to the VirusTotal analysis page for each hash.
 
-**Version:** `0.8.4`
 
 ## Features
 
